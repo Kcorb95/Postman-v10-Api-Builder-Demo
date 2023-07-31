@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "7b6cc02b-7261-47f6-be29-f9c3439adb1a",
 		"name": "Example API Collection",
-		"description": "Buy or rent spacecrafts",
+		"description": "# Header Title\n\n[Link to Heading](null)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "19100817-7b6cc02b-7261-47f6-be29-f9c3439adb1a"
 	},
@@ -38,7 +38,6 @@
 									],
 									"variable": [
 										{
-											"id": "77a5f8db-103c-48b3-8b1e-212f8366afa7",
 											"key": "spacecraftId",
 											"value": "<string>"
 										}
@@ -68,7 +67,6 @@
 											],
 											"variable": [
 												{
-													"id": "77a5f8db-103c-48b3-8b1e-212f8366afa7",
 													"key": "spacecraftId",
 													"value": "<string>"
 												}
@@ -109,7 +107,6 @@
 											],
 											"variable": [
 												{
-													"id": "77a5f8db-103c-48b3-8b1e-212f8366afa7",
 													"key": "spacecraftId",
 													"value": "<string>"
 												}
@@ -150,7 +147,6 @@
 											],
 											"variable": [
 												{
-													"id": "77a5f8db-103c-48b3-8b1e-212f8366afa7",
 													"key": "spacecraftId",
 													"value": "<string>"
 												}
@@ -175,7 +171,8 @@
 					"id": "6108af70-d20c-4ee2-84b9-e91c4707dd43"
 				}
 			],
-			"id": "687179cb-e79a-4cb6-8353-7374c9156ddc"
+			"id": "687179cb-e79a-4cb6-8353-7374c9156ddc",
+			"description": "# Large Heading\n\n# Another Large Heading"
 		}
 	],
 	"auth": {
